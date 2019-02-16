@@ -1,0 +1,41 @@
+#quote-box{
+  width:600px;
+  height:275px;
+  margin: auto;
+  padding: 20px; 
+}
+
+#text {
+  color: black;
+  font: 30px arial, sans-serif;
+}
+
+#author {
+  color: black;
+  float: right;
+  font: 15px arial, sans-serif;
+}
+
+#new-quote{
+ float: right;
+}
+
+#tweet-quote{
+ float:left
+}
+
+body {
+  background-color:#000000
+}
+
+.button {
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  vertical-align: bottom;
+}
